@@ -31,13 +31,13 @@
 | 目录 | 论文 | 彩图 | 备注 | 备注 |
 |------|----------|----------|----------|----------|
 | **第一章：绪论** |  |  |  |  |
-| 1.1 优化问题与优化方法概述 | xxx | xxx | xxx | xxx |
-| 1.2 机器学习方法概述 | xxx | xxx | xxx | xxx |
-| 1.3 优化与学习的融通共进 | xxx | xxx | xxx | xxx |
-| 1.4 面向组合优化的学习优化方法研究进展 | xxx | xxx | xxx | xxx |
+| 1.1 优化问题与优化方法概述 |  | xxx | xxx | xxx |
+| 1.2 机器学习方法概述 | | xxx | xxx | xxx |
+| 1.3 优化与学习的融通共进 | | xxx | xxx | xxx |
+| 1.4 面向组合优化的学习优化方法研究进展 |  | xxx | xxx | xxx |
 | **第二章: 单目标学习优化方法** |  |   |  |  |
-| 2.1 预备知识 | xxx |  xxx | xxx | xxx |
-| 2.2 利用知识蒸馏的可泛化方法 | xxx | xxx | xxx | xxx |
+| 2.1 预备知识 |  |  xxx | xxx | xxx |
+| 2.2 利用知识蒸馏的可泛化方法 | [NeurIPS2022](https://openreview.net/forum?id=sOVNpUEgKMp) | xxx | [AMDKD](https://github.com/jieyibi/AMDKD) | xxx |
 | 2.3 基于偏好优化的训练范式 | xxx | xxx | xxx | xxx |
 | **第三章: 多目标学习优化方法** |  |   |  |  |
 | 3.1 预备知识 | xxx |  xxx | xxx | xxx |
