@@ -70,7 +70,7 @@
 
 1. **GitHub Issues**：通过项目的Issues页面反馈
 2. **邮件联系**：
-   - `xxxxx`
-   - `xxxxx`
+   - 陈瑾标 <bill.cjb at nus.edu.sg>
+
 
 
