@@ -54,7 +54,7 @@
 | 5.2 可行性和多样性引导的约束处理方法 | xxx | xxx | xxx | xxx |
 | 5.3 基于偏好优化的约束处理方法 | xxx | xxx | xxx | xxx |
 | **第六章: 迈向学习优化基础模型** |  |  |  |  |
-| 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) | xxx | xxx | xxx |
+| 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) | xxx | [CoEKS](https://github.com/yuzikang0/CoEKS) | xxx |
 | 6.2 端到端学习优化基础模型 | xxx | xxx | xxx | xxx |
 | 6.3 总结和展望 | xxx | xxx | xxx | xxx |
 
