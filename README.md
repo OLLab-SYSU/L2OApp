@@ -38,7 +38,7 @@
 | **第二章: 单目标学习优化方法** |  |   |  |  |
 | 2.1 预备知识 |  |  xxx | xxx | xxx |
 | 2.2 利用知识蒸馏的可泛化方法 | [NeurIPS2022](https://openreview.net/forum?id=sOVNpUEgKMp) | xxx | [AMDKD](https://github.com/jieyibi/AMDKD) | xxx |
-| 2.3 基于偏好优化的训练范式 | xxx | xxx | xxx | xxx |
+| 2.3 基于偏好优化的训练范式 | [ICML2025](https://openreview.net/forum?id=FLy6yXdrlW) | xxx | [BOPO](https://github.com/L-Z-7/BOPO) | xxx |
 | **第三章: 多目标学习优化方法** |  |   |  |  |
 | 3.1 预备知识 | xxx |  xxx | xxx | xxx |
 | 3.2 高效元学习方法 | xxx | xxx | xxx | xxx |
