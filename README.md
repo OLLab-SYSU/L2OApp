@@ -50,9 +50,9 @@
 | 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) | xxx |  | xxx |
 | 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | xxx | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) | xxx |
 | **第五章: 学习优化约束处理方法** |  |   |  |  |
-| 5.1 两阶段约束处理方法 |  [PPSN2022](https://openreview.net/forum?id=AlA2TwEvhga) | xxx |  | xxx |
+| 5.1 两阶段约束处理方法 |  [PPSN2022](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_25) | xxx |  | xxx |
 | 5.2 可行性和多样性引导的约束处理方法 | xxx | xxx | xxx | xxx |
-| 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://openreview.net/forum?id=q92UZzTXQQ) | xxx | [UCPO](https://github.com/Birdie-Go/UCPO) | xxx |
+| 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://ojs.aaai.org/index.php/AAAI/article/view/41017) | xxx | [UCPO](https://github.com/Birdie-Go/UCPO) | xxx |
 | **第六章: 迈向学习优化基础模型** |  |  |  |  |
 | 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) | xxx | [CoEKS](https://github.com/yuzikang0/CoEKS) | xxx |
 | 6.2 端到端学习优化基础模型 | [NeurIPS2025](https://openreview.net/forum?id=qr5uMEs6iR) | [xxx] | [LLMCoSolver](https://github.com/Summer142857/LLMCoSolver) | xxx |
