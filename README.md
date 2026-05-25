@@ -31,16 +31,16 @@
 | 目录 | 论文 | 彩图 | 算法 | 扩展阅读 |
 |------|----------|----------|----------|----------|
 | **第一章：绪论** |  |  |  |  |
-| 1.1 优化问题与优化方法概述 |  | xxx | xxx | xxx |
-| 1.2 机器学习方法概述 | | xxx | xxx | xxx |
-| 1.3 优化与学习的融通共进 | | xxx | xxx | xxx |
-| 1.4 面向组合优化的学习优化方法研究进展 |  | xxx | xxx | xxx |
+| 1.1 优化问题与优化方法概述 |  | | |  |
+| 1.2 机器学习方法概述 | |  |  |  |
+| 1.3 优化与学习的融通共进 | |  |  |  |
+| 1.4 面向组合优化的学习优化方法研究进展 |  |  |  |  |
 | **第二章: 单目标学习优化方法** |  |   |  |  |
-| 2.1 预备知识 |  |  xxx | xxx | xxx |
+| 2.1 预备知识 |  |   |  |  |
 | 2.2 利用知识蒸馏的可泛化方法 | [NeurIPS2022](https://openreview.net/forum?id=sOVNpUEgKMp) | xxx | [AMDKD](https://github.com/jieyibi/AMDKD) | xxx |
 | 2.3 基于偏好优化的训练范式 | [ICML2025](https://openreview.net/forum?id=FLy6yXdrlW) | xxx | [BOPO](https://github.com/L-Z-7/BOPO) | xxx |
 | **第三章: 多目标学习优化方法** |  |   |  |  |
-| 3.1 预备知识 | xxx |  xxx | xxx | xxx |
+| 3.1 预备知识 | |   |  |  |
 | 3.2 高效元学习方法 |[NeurIPS2023](https://openreview.net/forum?id=593fc38lhN&noteId=A49171ShYg)| xxx | [EMNH](https://github.com/bill-cjb/EMNH) | xxx |
 | 3.3 权重嵌入方法 |[ICLR2025](https://openreview.net/forum?id=GM7cmQfk2F) | xxx | [WE](https://github.com/bill-cjb/WE) | xxx |
 | 3.4 多模态特征融合方法 | [ICLR2025](https://openreview.net/forum?id=4sJ2FYE65U) | xxx | [GIMF](https://github.com/bill-cjb/GIMF) | xxx |
@@ -55,8 +55,8 @@
 | 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://ojs.aaai.org/index.php/AAAI/article/view/41017) | xxx | [UCPO](https://github.com/Birdie-Go/UCPO) | xxx |
 | **第六章: 迈向学习优化基础模型** |  |  |  |https://github.com/ai4co/awesome-fm4co|
 | 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) | xxx | [CoEKS](https://github.com/yuzikang0/CoEKS) | xxx |
-| 6.2 端到端学习优化基础模型 | [NeurIPS2025](https://openreview.net/forum?id=qr5uMEs6iR) | [xxx] | [LLMCoSolver](https://github.com/Summer142857/LLMCoSolver) | xxx |
-| 6.3 总结和展望 | xxx | xxx | xxx | xxx |
+| 6.2 端到端学习优化基础模型 | [NeurIPS2025](https://openreview.net/forum?id=qr5uMEs6iR) | xxx | [LLMCoSolver](https://github.com/Summer142857/LLMCoSolver) | xxx |
+| 6.3 总结和展望 |  |  |  |  |
 
 ## 🎓 作者列表
 
