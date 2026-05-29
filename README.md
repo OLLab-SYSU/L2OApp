@@ -47,8 +47,8 @@
 | 3.5 多样性增强方法 | [NeurIPS2023](https://openreview.net/forum?id=N4JkStI1fe) | xxx | [NHDE](https://github.com/bill-cjb/NHDE) | xxx |
 | 3.6 权重相关的学习提升方法 | [TETCI2025](https://ieeexplore.ieee.org/abstract/document/10906524) | xxx | L2O | xxx |
 | **第四章: 动态鲁棒问题的学习优化方法** |  |   |  |  |
-| 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) | xxx |M1 M2 | xxx |
-| 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | xxx | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) | xxx |
+| 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) | xxx |M1, M2 | xxx |
+| 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | 图4.7 | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) | xxx |
 | **第五章: 学习优化约束处理方法** |  |   |  |  |
 | 5.1 两阶段约束处理方法 |  [PPSN2022](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_25) | xxx | DRL-TS |  |
 | 5.2 可行性和多样性引导的约束处理方法 | PPSN2026 | xxx | FRDP | xxx |
