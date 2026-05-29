@@ -50,7 +50,7 @@
 | 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) | xxx |M1, M2 | xxx |
 | 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | 图4.7 | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) | xxx |
 | **第五章: 学习优化约束处理方法** |  |   |  |  |
-| 5.1 两阶段约束处理方法 |  [PPSN2022](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_25) | xxx | DRL-TS |  |
+| 5.1 两阶段约束处理方法 |  [PPSN2022](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_25) |图5.4，图5.5 | DRL-TS |  |
 | 5.2 可行性和多样性引导的约束处理方法 | PPSN2026 | xxx | FRDP | xxx |
 | 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://ojs.aaai.org/index.php/AAAI/article/view/41017) | xxx | [UCPO](https://github.com/Birdie-Go/UCPO) | xxx |
 | **第六章: 迈向学习优化基础模型** |  |  |  |https://github.com/ai4co/awesome-fm4co|
