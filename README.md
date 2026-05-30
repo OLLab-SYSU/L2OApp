@@ -53,7 +53,7 @@
 | 5.1 两阶段约束处理方法 |  [PPSN2022](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_25) |图5.4，图5.5 | DRL-TS |  |
 | 5.2 可行性和多样性引导的约束处理方法 | PPSN2026 | xxx | FRDP | xxx |
 | 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://ojs.aaai.org/index.php/AAAI/article/view/41017) | xxx | [UCPO](https://github.com/Birdie-Go/UCPO) | xxx |
-| **第六章: 迈向学习优化基础模型** |  |  |  |[FM4CO](https://github.com/ai4co/awesome-fm4co)|
+| **第六章: 迈向学习优化基础模型** |  |  |  |[FM4CO](https://github.com/ai4co/awesome-fm4co), [FM4OR](https://github.com/OLLab-SYSU/FM4OR)|
 | 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) | xxx | [CoEKS](https://github.com/yuzikang0/CoEKS) | xxx |
 | 6.2 端到端学习优化基础模型 | [NeurIPS2025](https://openreview.net/forum?id=qr5uMEs6iR) | xxx | [LLMCoSolver](https://github.com/Summer142857/LLMCoSolver) | xxx |
 | 6.3 总结和展望 |  |  |  |  |
