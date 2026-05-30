@@ -34,7 +34,7 @@
 | 1.1 优化问题与优化方法概述 |  | | |  |
 | 1.2 机器学习方法概述 | |  |  |  |
 | 1.3 优化与学习的融通共进 | |  |  |  |
-| 1.4 面向组合优化的学习优化方法研究进展 |  |  |  |  |
+| 1.4 面向组合优化的学习优化方法研究进展 |  |  |  | [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) |
 | **第二章: 单目标学习优化方法** |  |   |  |  |
 | 2.1 预备知识 |  |   |  |  |
 | 2.2 利用知识蒸馏的可泛化方法 | [NeurIPS2022](https://openreview.net/forum?id=sOVNpUEgKMp) | xxx | [AMDKD](https://github.com/jieyibi/AMDKD) | xxx |
