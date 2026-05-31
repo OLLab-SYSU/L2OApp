@@ -45,7 +45,7 @@
 | 3.3 权重嵌入方法 |[ICLR2025](https://openreview.net/forum?id=GM7cmQfk2F) | xxx | [WE](https://github.com/bill-cjb/WE) | xxx |
 | 3.4 多模态特征融合方法 | [ICLR2025](https://openreview.net/forum?id=4sJ2FYE65U) | xxx | [GIMF](https://github.com/bill-cjb/GIMF) | xxx |
 | 3.5 多样性增强方法 | [NeurIPS2023](https://openreview.net/forum?id=N4JkStI1fe) | xxx | [NHDE](https://github.com/bill-cjb/NHDE) | xxx |
-| 3.6 权重相关的学习提升方法 | [TETCI2025](https://ieeexplore.ieee.org/abstract/document/10906524) | xxx | L2O | xxx |
+| 3.6 权重相关的学习提升方法 | [TETCI2025](https://ieeexplore.ieee.org/abstract/document/10906524) | xxx | L2I | xxx |
 | **第四章: 动态鲁棒问题的学习优化方法** |  |   |  |  |
 | 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) | xxx |M1, M2 | xxx |
 | 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | 图4.7 | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) | xxx |
