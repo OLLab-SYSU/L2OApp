@@ -72,7 +72,7 @@
 2. **邮件联系**：
    - 陈瑾标 <bill.cjb at nus.edu.sg>
 
-## 扩展阅读
+## 进一步阅读
 -Jiahai Wang....
 
 
