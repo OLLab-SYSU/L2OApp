@@ -37,25 +37,25 @@
 | 1.4 面向组合优化的学习优化方法研究进展 |  |  |  | [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) |
 | **第二章: 单目标学习优化方法** |  |   |  |  |
 | 2.1 预备知识 |  |   |  |  |
-| 2.2 利用知识蒸馏的可泛化方法 | [NeurIPS2022](https://openreview.net/forum?id=sOVNpUEgKMp) | xxx | [AMDKD](https://github.com/jieyibi/AMDKD) | xxx |
-| 2.3 基于偏好优化的训练范式 | [ICML2025](https://openreview.net/forum?id=FLy6yXdrlW) | xxx | [BOPO](https://github.com/L-Z-7/BOPO) | xxx |
+| 2.2 利用知识蒸馏的可泛化方法 | [NeurIPS2022](https://openreview.net/forum?id=sOVNpUEgKMp) |  | [AMDKD](https://github.com/jieyibi/AMDKD) |  |
+| 2.3 基于偏好优化的训练范式 | [ICML2025](https://openreview.net/forum?id=FLy6yXdrlW) |  | [BOPO](https://github.com/L-Z-7/BOPO) |  |
 | **第三章: 多目标学习优化方法** |  |   |  |  |
 | 3.1 预备知识 | |   |  |  |
-| 3.2 高效元学习方法 |[NeurIPS2023](https://openreview.net/forum?id=593fc38lhN&noteId=A49171ShYg)| xxx | [EMNH](https://github.com/bill-cjb/EMNH) | xxx |
-| 3.3 权重嵌入方法 |[ICLR2025](https://openreview.net/forum?id=GM7cmQfk2F) | xxx | [WE](https://github.com/bill-cjb/WE) | xxx |
-| 3.4 多模态特征融合方法 | [ICLR2025](https://openreview.net/forum?id=4sJ2FYE65U) | xxx | [GIMF](https://github.com/bill-cjb/GIMF) | xxx |
-| 3.5 多样性增强方法 | [NeurIPS2023](https://openreview.net/forum?id=N4JkStI1fe) | xxx | [NHDE](https://github.com/bill-cjb/NHDE) | xxx |
-| 3.6 权重相关的学习提升方法 | [TETCI2025](https://ieeexplore.ieee.org/abstract/document/10906524) | xxx | L2I | xxx |
+| 3.2 高效元学习方法 |[NeurIPS2023](https://openreview.net/forum?id=593fc38lhN&noteId=A49171ShYg)|  | [EMNH](https://github.com/bill-cjb/EMNH) |  |
+| 3.3 权重嵌入方法 |[ICLR2025](https://openreview.net/forum?id=GM7cmQfk2F) |  | [WE](https://github.com/bill-cjb/WE) |  |
+| 3.4 多模态特征融合方法 | [ICLR2025](https://openreview.net/forum?id=4sJ2FYE65U) |  | [GIMF](https://github.com/bill-cjb/GIMF) |  |
+| 3.5 多样性增强方法 | [NeurIPS2023](https://openreview.net/forum?id=N4JkStI1fe) |  | [NHDE](https://github.com/bill-cjb/NHDE) |  |
+| 3.6 权重相关的学习提升方法 | [TETCI2025](https://ieeexplore.ieee.org/abstract/document/10906524) |  | L2I |  |
 | **第四章: 动态鲁棒问题的学习优化方法** |  |   |  |  |
-| 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) | xxx |M1, M2 | xxx |
-| 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | 图4.7 | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) | xxx |
+| 4.1 动态问题的学习优化方法 | [TNNLS2021](https://ieeexplore.ieee.org/abstract/document/9537638) |  |M1, M2 |  |
+| 4.2 鲁棒问题的学习优化方法 | [NeurIPS2024](https://openreview.net/forum?id=DoewNm2uT3&noteId=jRAyNnSoxa) | 图4.7 | [Robust-VRP](https://github.com/xchihiro/Robust-VRP) |  |
 | **第五章: 学习优化约束处理方法** |  |   |  |  |
 | 5.1 两阶段约束处理方法 |  [PPSN2022](https://link.springer.com/chapter/10.1007/978-3-031-14714-2_25) |图5.4，图5.5 | DRL-TS |  |
-| 5.2 可行性和多样性引导的约束处理方法 | PPSN2026 | xxx | FRDP | xxx |
-| 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://ojs.aaai.org/index.php/AAAI/article/view/41017) | xxx | [UCPO](https://github.com/Birdie-Go/UCPO) | xxx |
+| 5.2 可行性和多样性引导的约束处理方法 | PPSN2026 |  | FRDP |  |
+| 5.3 基于偏好优化的约束处理方法 | [AAAI2026](https://ojs.aaai.org/index.php/AAAI/article/view/41017) |  | [UCPO](https://github.com/Birdie-Go/UCPO) |  |
 | **第六章: 迈向学习优化基础模型** |  |  |  |[FM4CO](https://github.com/ai4co/awesome-fm4co), [FM4OR](https://github.com/OLLab-SYSU/FM4OR)|
-| 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) | xxx | [CoEKS](https://github.com/yuzikang0/CoEKS) | xxx |
-| 6.2 端到端学习优化基础模型 | [NeurIPS2025](https://openreview.net/forum?id=qr5uMEs6iR) | xxx | [LLMCoSolver](https://github.com/Summer142857/LLMCoSolver) | xxx |
+| 6.1 知识共享的专家组合方法 |[ICLR2026](https://openreview.net/forum?id=lHBs9mbgwp) |  | [CoEKS](https://github.com/yuzikang0/CoEKS) |  |
+| 6.2 端到端学习优化基础模型 | [NeurIPS2025](https://openreview.net/forum?id=qr5uMEs6iR) |  | [LLMCoSolver](https://github.com/Summer142857/LLMCoSolver) |  |
 | 6.3 总结和展望 |  |  |  |  |
 
 ## 🎓 作者列表
