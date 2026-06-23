@@ -73,7 +73,7 @@
    - 陈瑾标 <bill.cjb at nus.edu.sg>
 
 ## 进一步阅读
--Jiahai Wang....
+- Learning to Optimize (https://ollab-sysu.github.io/)
 
 
 
