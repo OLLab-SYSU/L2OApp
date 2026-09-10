@@ -2,8 +2,8 @@
 
 ![出版年份](https://img.shields.io/badge/出版-2026-blue)
 ![出版社](https://img.shields.io/badge/出版社-科学出版社-red)
-![页数](https://img.shields.io/badge/正文-xx页-brightgreen)
-![参考文献](https://img.shields.io/badge/参考文献-xx篇-orange)
+![页数](https://img.shields.io/badge/正文-305页-brightgreen)
+![参考文献](https://img.shields.io/badge/参考文献-220篇-orange)
 
 
 ## 📚 书籍介绍
