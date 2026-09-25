@@ -41,7 +41,7 @@
 | 2.3 基于偏好优化的训练范式 | [ICML2025](https://openreview.net/forum?id=FLy6yXdrlW) |  | [BOPO](https://github.com/L-Z-7/BOPO) |  |
 | **第三章: 多目标学习优化方法** |  |   |  |  |
 | 3.1 预备知识 | |   |  |  |
-| 3.2 高效元学习方法 |[NeurIPS2023](https://openreview.net/forum?id=593fc38lhN&noteId=A49171ShYg)|  | [EMNH](https://github.com/bill-cjb/EMNH) |  |
+| 3.2 高效元学习方法 |[NeurIPS2023](https://openreview.net/forum?id=593fc38lhN&noteId=A49171ShYg)|  | [EMNH](https://github.com/bill-cjb/EMNH) |  [IEEE TNNLS2022](https://ieeexplore.ieee.org/abstract/document/9537638)) |
 | 3.3 权重嵌入方法 |[ICLR2025](https://openreview.net/forum?id=GM7cmQfk2F) |  | [WE](https://github.com/bill-cjb/WE) |  |
 | 3.4 多模态特征融合方法 | [ICLR2025](https://openreview.net/forum?id=4sJ2FYE65U) |  | [GIMF](https://github.com/bill-cjb/GIMF) |  |
 | 3.5 多样性增强方法 | [NeurIPS2023](https://openreview.net/forum?id=N4JkStI1fe) |  | [NHDE](https://github.com/bill-cjb/NHDE) |  |
