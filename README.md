@@ -24,7 +24,7 @@
 
 ![书籍封面](images/Struction.png)
 
-- **官方购买链接**: [点击购买](链接)
+- **官方购买链接**: [点击购买](https://item.jd.com/10236109524130.html?pcdk=wKvg6GNaRaohhm41QWdhnsu7wjGXNbu2F3teJXEJ2pvefW1-q-2qiPmBXsxV2YTY.3z6a.aI3x&spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDcyMTAua2V5d29yZF9lbnRlciU0MDE3OTA1MDQ3MjQzMzglMjMxODIwNTA3MDE0JTIzMTkyOTE2NzcwNSUyQ2EwMjQwLmIwMDI0OTMuYzAwMDA0MDI3LjElMjNza3VfY2FyZCU0MDE3OTA1MDQ4NTE2OTIlMjMxODIwNTA3MDE0JTIzMTQyMjA0OTYwMg)
 
 ## 📚 关于本书
 
